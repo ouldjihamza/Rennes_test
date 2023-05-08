@@ -6,7 +6,7 @@ int main(int argc, char ** argv){
 
 
 
-    cout << "je suis a Rennes France ! test insertion by aybek v3" << endl;
+    cout << "je suis a Rennes France ! test insertion by aybek v3.1" << endl;
 
     return 0;
 }
